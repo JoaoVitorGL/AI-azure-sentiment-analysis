@@ -2,7 +2,7 @@
   Azure Sentiment Analysis
 </h1>
 
-Criado para o desafio de projeto do bootcamp decola tech Avanade 2025 (Análise de Sentimentos com Language Studio no Azure AI).
+Análise de Sentimentos com Language Studio no Azure AI.
 
 # Criando o Recurso
 
